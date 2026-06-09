@@ -1,0 +1,9 @@
+# Personal financial data — this repo is PUBLIC; never commit these
+BHM-Finance-Dashboard.html
+*.csv
+*.xlsx
+*.db
+copilot-sync/query.json
+copilot-sync/auth.json
+copilot-sync/raw/
+__pycache__/
