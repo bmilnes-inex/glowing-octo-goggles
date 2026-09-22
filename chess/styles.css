@@ -34,7 +34,22 @@
     --shadow: 0 8px 24px rgba(20, 20, 40, 0.10);
     color-scheme: light;
   }
-}
+}:root[data-theme="light"] {
+    --bg: #f3f2ee;
+    --card: #ffffff;
+    --card-2: #f6f5f0;
+    --line: #e3e1d8;
+    --text: #17181f;
+    --muted: #666a7c;
+    --gold: #c8901a;
+    --gold-2: #a8760f;
+    --p1: #1f6fd0;
+    --p2: #d9502c;
+    --draw: #8a8ea0;
+    --shadow: 0 8px 24px rgba(20, 20, 40, 0.10);
+    color-scheme: light;
+  }
+
 
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
