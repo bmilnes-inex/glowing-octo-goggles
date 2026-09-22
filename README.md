@@ -1,3 +1,12 @@
+# glowing-octo-goggles
+
+Two things live here:
+
+- **[chess/](chess/)**: Blunderboard, a head-to-head chess.com scoreboard web app with commentary and the next game night. Deployed to GitHub Pages by `.github/workflows/pages.yml`. See [chess/README.md](chess/README.md).
+- **Claude Code laptop migration scripts** (below).
+
+---
+
 # Claude Code laptop migration (Windows -> Windows)
 
 Two PowerShell scripts to move your Claude Code configuration, projects, and
